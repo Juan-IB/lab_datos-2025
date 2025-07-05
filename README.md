@@ -44,7 +44,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 This project uses the following dataset:
 
-## [Padrón Oficial de Establecimientos Educativos](https://www.argentina.gob.ar/educacion/evaluacion-e-informacion-educativa/padron-oficial-de-establecimientos-educativos)
+### [Padrón Oficial de Establecimientos Educativos](https://www.argentina.gob.ar/educacion/evaluacion-e-informacion-educativa/padron-oficial-de-establecimientos-educativos)
 
 - **Source:** Ministerio de Educación de la Nación - República Argentina
 - **Name:** Padrón Oficial de Establecimientos Educativos 2022
@@ -53,7 +53,7 @@ This project uses the following dataset:
 - **Link:** [[Link to dataset](https://www.argentina.gob.ar/educacion/evaluacion-e-informacion-educativa/padron-oficial-de-establecimientos-educativos)]
 - **Alternate link** [[Link to dataset]](https://www.datos.gob.ar/es/dataset/educacion-padron-oficial-establecimientos-educativos)
 
-## [Mapa Cultural: Espacios Culturales - Centros Culturales](https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f)
+### [Mapa Cultural: Espacios Culturales - Centros Culturales](https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f)
 
 - **Source:** Ministerio de Cultura de la Nación - República Argentina
 - **Name:** Centros Culturales
@@ -62,7 +62,7 @@ This project uses the following dataset:
 - **Link:** [[Link to dataset](https://datos.gob.ar/dataset/cultura-mapa-cultural-espacios-culturales/archivo/cultura_0e9a431c-b4f7-455b-aa1a-f419b5740900)]
 - **Alternate link** [[Link to dataset]](https://datos.gob.ar/dataset/cultura_37305de4-3cce-4d4b-9d9a-fec3ca61d09f)
 
-## [Censo 2022](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165)
+### [Censo 2022](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165)
 
 - **Source:** INDEC - República Argentina
 - **Name:** Censo 2022
@@ -70,7 +70,7 @@ This project uses the following dataset:
 - **Description:** Censo Nacional de Población, Hogares y Viviendas 2022 por Departamento – Estructura por edad de la población.
 - **Link:** [[Link to database](https://redatam.indec.gob.ar/binarg/RpWebEngine.exe/Portal?BASE=CPV2022&lang=ESP)]
 
-## [mnist_c - Fog version](https://zenodo.org/records/3239543)
+### [mnist_c - Fog version](https://zenodo.org/records/3239543)
 
 - **Source:** Mu, N., & Gilmer, J. (2019). MNIST-C: A Robustness Benchmark for Computer Vision. Zenodo
 - **Name:** mnist_c_fog
@@ -78,8 +78,6 @@ This project uses the following dataset:
 - **Description:** A corrupted version of classic MNIST dataset with fog.
 - **Link:** [[Link to dataset](https://zenodo.org/records/3239543/preview/mnist_c.zip?include_deleted=0#tree_item31)]
 
-<!-- This dataset/s is in the public domain and can be used without restrictions under the CC0 license. -->
-
 # Team Corgis :dog:
 
-![Corgi](.\corgi.png "Team Corgis")
+![Corgi](https://github.com/Juan-IB/lab_datos-2025/blob/11ef120cdff54ae8a3d6595c5c462c85628ad73c/corgi.png "Team Corgis")
