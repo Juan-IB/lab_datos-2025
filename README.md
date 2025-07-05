@@ -82,4 +82,4 @@ This project uses the following dataset:
 
 # Team Corgis :dog:
 
-![Corgi](.\corgi.png "Team Corgis")
+![Corgi](https://github.com/Juan-IB/lab_datos-2025/blob/11ef120cdff54ae8a3d6595c5c462c85628ad73c/corgi.png "Team Corgis")
