@@ -18,7 +18,8 @@ Next, set current path to one of two TP-0* folders and run main.py from there. T
 
 ## TP - 01
 Before running, make sure you are connected to the internet. Source code contains a script that will call StreetWeb API and make a web request.
-Due to API speed limitations, this will take some time (approximately 15 minutes).
+> [!IMPORTANT]
+> Due to API speed limitations, this will take some time (approximately 15 minutes).
 ***Don't interrupt*** this process.
 
 ```powershell
@@ -27,8 +28,8 @@ py .\src\main.py
 ```
 
 ## TP - 02
-.[!IMPORTANT].
-Source code contains a script that will generates several derived tables, taking up a total of 1.21 GB of storage space.
+> [!IMPORTANT]
+> Source code contains a script that will generates several derived tables, taking up a total of 1.21 GB of storage space.
 
 If there isn't enough space, pandas might throw an error, but the program keeps a copy of the tables in memory, so it's not critical for execution (it's just to speed up data loading in subsequent runs).
 
