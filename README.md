@@ -27,7 +27,9 @@ py .\src\main.py
 ```
 
 ## TP - 02
+.[!IMPORTANT].
 Source code contains a script that will generates several derived tables, taking up a total of 1.21 GB of storage space.
+
 If there isn't enough space, pandas might throw an error, but the program keeps a copy of the tables in memory, so it's not critical for execution (it's just to speed up data loading in subsequent runs).
 
 ```powershell
