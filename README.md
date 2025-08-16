@@ -3,7 +3,7 @@
 Este proyecto se realizó en el contexto del laboratorio de datos de la UBA (Universidad de Buenos Aires).
 Su objetivo era implementar conocimientos y realizar actividades propias de proyectos de ciencia de datos.
 
-# Usage
+# Uso
 
 Primero, necesitas instalar las bibliotecas necesarias. Puedes:
 * **Option 1:** Ejecutar `install-lib.bat` para instalar las dependencias:
@@ -39,13 +39,13 @@ py .\src\main.py
 ```
 
 
-# License
+# Licencia
 
 Este proyecto está licenciado bajo la [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Datasets
 
-Este proyecto utiliza los siguiente conjuntos de datos (datasets):
+Se utilizan los siguientes conjuntos de datos (datasets):
 
 ### [Padrón Oficial de Establecimientos Educativos](https://www.argentina.gob.ar/educacion/evaluacion-e-informacion-educativa/padron-oficial-de-establecimientos-educativos)
 
