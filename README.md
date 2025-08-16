@@ -1,7 +1,10 @@
 # lab_datos-2025 - es
 
+> [!NOTE]
+> Los informes, principal resultado de este trabajo, se encuentran en [res](res/).
+
 Este proyecto se realizó en el contexto del laboratorio de datos de la UBA (Universidad de Buenos Aires).
-Su objetivo era implementar conocimientos y realizar actividades propias de proyectos de ciencia de datos.
+Su objetivo era implementar conocimientos y realizar actividades propias de proyectos de ciencia de datos, produciendo en el proceso un informe a modo de investigación del tema en cuestión.
 
 # Uso
 
@@ -89,8 +92,11 @@ Se utilizan los siguientes conjuntos de datos (datasets):
 
 # lab_datos-2025 - en
 
+> [!NOTE]
+> The reports, the main result of this work, can be found in [res](res/).
+
 This project was made in the context of the UBA (Universidad de Buenos Aires) data lab subject.
-It was intended to implement knowledge and carry out activities that belong to data science projects.
+It was intended to implement knowledge and carry out activities that belong to data science projects, producing a research-style report on the topic in question in the process.
 
 # Usage
 
